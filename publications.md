@@ -1,5 +1,23 @@
 # List of publications
 
+[@MontoyaAraque_etal_2023_article]
+@MontoyaAraque_etal_2023_article
+
+[@MontoyaAraque_etal_2023_article222]
+@MontoyaAraque_etal_2023_article222
+
+{MontoyaAraque_etal_2023_article222,
+  author = {Montoya-Araque, Exneyder A. and Montoya-Noguera, Sandra},
+  title = {Sensitivity Analysis of a Physically Based Model to Assess Rainfall-Triggered Shallow Landslides},
+  journal = {Geotechnical and Geological Engineering},
+  year = {2023},
+  month = {04},
+  day = {01},
+  issn = {1573-1529},
+  doi = {10.1007/s10706-022-02223-0},
+  url = {<https://doi.org/10.1007/s10706-022-02223-0}>
+}
+
 E. A. Montoya-Araque and S. Montoya-Noguera, “Sensitivity Analysis of a Physically Based
 Model to Assess Rainfall-Triggered Shallow Landslides,” Geotechnical and Geological Engineering,
 4 2023.
