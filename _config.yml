@@ -1,8 +1,10 @@
 title: Hi there 👋, I'm Exneyder A. Montoya-Araque
-description: Personal website
+description: Get my updated CV [here](/attached/MontoyaAraque_CV.pdf)
 logo: /images/eama.png
 show_downloads: false
 theme: jekyll-theme-minimal
 remote_theme: pages-themes/minimal@v0.2.0
+bibliography: /attached/publications.bib
+link-citations: true
 plugins:
 - jekyll-remote-theme

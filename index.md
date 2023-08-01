@@ -4,6 +4,8 @@ layout: default
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eamontoyaa)       [![ResearchGate](https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Exneyder-A-Montoya-Araque)          [![GoogleScholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=hZiewIEAAAAJ)       [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/exneyder-andres-montoya-araque-20b738112)               [![ORCID](https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-6566-4962)
 
+Welcome to my personal website!
+
 ## These are some nerdy and fun facts about me
 
 - 🛫 I come from Colombia 🇨🇴, but I'm currently living in France 🇫🇷.
@@ -14,7 +16,7 @@ layout: default
 - 📚 I have studied block-in-matrix materials (bimrocks and bimsoils), especially the tortuous failure surface developed in these materials and its consideration in slope stability.
 - I have worked in consulting as a geologist and geotechnical engineer 👷‍♂️. I have indoor experience in the office 🧑‍💻 and lab 👨‍🔬 and have done a lot of fieldwork 🗺️🏕️⛰️.
 - 💻 I like developing open-source software for solving geological and geotechnical problems, but also as teaching tools 🧑‍🏫.
-- 🤝 I'm looking for people to collaborate with on open-source development and research projects.
+- 🤝 I'm looking for people to collaborate with on open-source development and research projects. All ideas 💡 are welcome!
 
 ## 📝 List of publications
 
