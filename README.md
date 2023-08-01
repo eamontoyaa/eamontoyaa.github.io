@@ -17,4 +17,7 @@
 
 You can  send me an email 📧 at any of these options:
 
-[eamontoyaa@gmail.com](mailto:eamontoyaa@gmail.com) | [eamontoyaa@unal.edu.co](mailto:eamontoyaa@unal.edu.co) | [eamontoyaa@eafit.edu.co](mailto:eamontoyaa@eafit.edu.co) | [exneyder.montoya@centralesupelec.fr](mailto:exneyder.montoya@centralesupelec.fr)
+[eamontoyaa@gmail.com](mailto:eamontoyaa@gmail.com)
+[eamontoyaa@unal.edu.co](mailto:eamontoyaa@unal.edu.co)
+[eamontoyaa@eafit.edu.co](mailto:eamontoyaa@eafit.edu.co)
+[exneyder.montoya@centralesupelec.fr](mailto:exneyder.montoya@centralesupelec.fr)
