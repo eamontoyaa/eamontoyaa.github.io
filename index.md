@@ -10,14 +10,15 @@ layout: default
 - 😼 I have 4 cats 🐈‍⬛🐈‍⬛🐈‍⬛🐈‍⬛, and love drinking coffee ☕.
 - I practice beach volleyball 🏐 and table tennis 🏓. I also enjoy watching football ⚽.
 - 🤓 I'm a geological engineer and an amateur Python 🐍 developer. I hold a master's degree in Geotechnical Engineering, and I'm currently doing a PhD in Engineering.
-- 🔍 I’m currently working on landslides 🏔️ hazard assessment, considering both rainfall 🌦️ and earthquakes 🪨 as triggering factors.
+- 🔍 My current research is focused on landslides 🏔️ hazard assessment, considering both rainfall 🌦️ and earthquakes 🪨 as triggering factors.
 - 📚 I have studied block-in-matrix materials (bimrocks and bimsoils), especially the tortuous failure surface developed in these materials and its consideration in slope stability.
+- I have worked in consulting as a geologist and geotechnical engineer 👷‍♂️. I have indoor experience in the office 🧑‍💻 and lab 👨‍🔬 and have done a lot of fieldwork 🗺️🏕️⛰️.
 - 💻 I like developing open-source software for solving geological and geotechnical problems, but also as teaching tools 🧑‍🏫.
 - 🤝 I'm looking for people to collaborate with on open-source development and research projects.
 
 ## 📫 How to reach me
 
-You can  send me an email 📧 at any of these options:
+You can  send me an email 📧 at any of these addessess:
 
 - [eamontoyaa@gmail.com](mailto:eamontoyaa@gmail.com)
 - [eamontoyaa@unal.edu.co](mailto:eamontoyaa@unal.edu.co)
