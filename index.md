@@ -27,4 +27,8 @@ You can  send me an email 📧 at any of these addessess:
 
 ## 📝 List of publications
 
-[Link to another page](./publications.html), you can find a list of my publications.
+[Here](./publications.html), you can find a list of my publications.
+
+## 📝 Development projects
+
+[Here](./development.html), you can find a list of application software and other development projects I have worked on.  Most of them are colavorative works. You'll find the links to the repositories and the documentation, as well as the credits to the other contributors.
