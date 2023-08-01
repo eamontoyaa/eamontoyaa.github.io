@@ -16,6 +16,14 @@ layout: default
 - 💻 I like developing open-source software for solving geological and geotechnical problems, but also as teaching tools 🧑‍🏫.
 - 🤝 I'm looking for people to collaborate with on open-source development and research projects.
 
+## 📝 List of publications
+
+[Here](./publications.html), you can find a list of my publications.
+
+## 💻 Development projects
+
+[Here](./development.html), you can find a list of application software and other development projects I have worked on.  Most of them are colavorative works. You'll find the links to the repositories and the documentation, as well as the credits to the other co-authors or contributors.
+
 ## 📫 How to reach me
 
 You can  send me an email 📧 at any of these addessess:
@@ -24,11 +32,3 @@ You can  send me an email 📧 at any of these addessess:
 - [eamontoyaa@unal.edu.co](mailto:eamontoyaa@unal.edu.co)
 - [eamontoyaa@eafit.edu.co](mailto:eamontoyaa@eafit.edu.co)
 - [exneyder.montoya@centralesupelec.fr](mailto:exneyder.montoya@centralesupelec.fr)
-
-## 📝 List of publications
-
-[Here](./publications.html), you can find a list of my publications.
-
-## 📝 Development projects
-
-[Here](./development.html), you can find a list of application software and other development projects I have worked on.  Most of them are colavorative works. You'll find the links to the repositories and the documentation, as well as the credits to the other contributors.
