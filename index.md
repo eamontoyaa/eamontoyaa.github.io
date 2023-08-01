@@ -25,6 +25,6 @@ You can  send me an email 📧 at any of these addessess:
 - [eamontoyaa@eafit.edu.co](mailto:eamontoyaa@eafit.edu.co)
 - [exneyder.montoya@centralesupelec.fr](mailto:exneyder.montoya@centralesupelec.fr)
 
-## List of publications
+## 📝 List of publications
 
-[Link to another page](./publications.html)., you can find a list of my publications.
+[Link to another page](./publications.html), you can find a list of my publications.
