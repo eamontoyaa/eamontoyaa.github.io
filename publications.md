@@ -1,63 +1,25 @@
 # List of publications
 
-[@MontoyaAraque_etal_2023_article]
-@MontoyaAraque_etal_2023_article
+Montoya-Araque, E. A., & Montoya-Noguera, S. (2023). Sensitivity Analysis of a Physically Based Model to Assess Rainfall-Triggered Shallow Landslides. Geotechnical and Geological Engineering, 41(5), 2797–2814. DOI: [10.1007/s10706-023-02427-3](https://doi.org/10.1007/s10706-023-02427-3)
 
-[@MontoyaAraque_etal_2023_article222]
-@MontoyaAraque_etal_2023_article222
+Montoya-Araque, E. A., Aparicio-Ortube, A. J., Zapata-Medina, D. G., & Arboleda-Monsalve, L. G. (2022). An open-source application software to determine the preconsolidation pressure of soils in incremental loading oedometer testing: pySigmaP. SoftwareX, 17, 100990. DOI: [10.1016/j.softx.2022.100990](https://doi.org/10.1016/j.softx.2022.100990)
 
-{MontoyaAraque_etal_2023_article222,
-  author = {Montoya-Araque, Exneyder A. and Montoya-Noguera, Sandra},
-  title = {Sensitivity Analysis of a Physically Based Model to Assess Rainfall-Triggered Shallow Landslides},
-  journal = {Geotechnical and Geological Engineering},
-  year = {2023},
-  month = {04},
-  day = {01},
-  issn = {1573-1529},
-  doi = {10.1007/s10706-022-02223-0},
-  url = {<https://doi.org/10.1007/s10706-022-02223-0}>
-}
+Ariza-Triana, A., Montoya-Araque, E. A., & Suarez-Burgoa, L. O. (2021). Modeling of Bimrock/Bimsoil Structures by Means of Circular Particles Packed in R2. In M. Barla, A. Di Donna, & D. Sterpi (Eds.), Lecture Notes in Civil Engineering (Vol. 126, pp. 737–743). Springer International Publishing. DOI: [10.1007/978-3-030-64518-2_87](https://doi.org/10.1007/978-3-030-64518-2_87)
 
-E. A. Montoya-Araque and S. Montoya-Noguera, “Sensitivity Analysis of a Physically Based
-Model to Assess Rainfall-Triggered Shallow Landslides,” Geotechnical and Geological Engineering,
-4 2023.
+Aparicio-Ortube, A. J., Montoya-Araque, E. A., & Zapata-Medina, D. G. (2021). Variabilidad inherente en la determinación del esfuerzo de preconsolidación de suelos mediante ensayos edométricos convencionales. Ingenium, 2, 79–87.
 
-E. A. Montoya-Araque, A. Aparicio-Ortube, D. G. Zapata-Medina, and L. G. Arboleda-
-Monsalve, “An open-source application software to determine the preconsolidation pressure of
-soils in incremental loading oedometer testing: pySigmaP,” SoftwareX, vol. 17, p. 100990, 1
-2022.
+Montoya-Araque, E. A., Suarez-Burgoa, L. O., & Medley, E. W. (2020). Application of the tortuous surface method to stochastic analysis of bimslope stability. Bulletin of Engineering Geology and the Environment, 79(10), 5329–5340. DOI: [10.1007/s10064-020-01909-5](https://doi.org/10.1007/s10064-020-01909-5)
 
-A. Ariza-Triana, E. A. Montoya-Araque, and L. O. Suarez-Burgoa, “Modeling of Bimrock/
-Bimsoil Structures by Means of Circular Particles Packed in R2,” in Lecture Notes
-in Civil Engineering (M. Barla, A. Di Donna, and D. Sterpi, eds.), vol. 126, pp. 737–743, Cham:
-Springer International Publishing, 2021.
+Suarez-Burgoa, L. O., Ariza-Triana, A., & Montoya-Araque, E. (2019). Modelamiento de estructuras de bimsoils mediante el empaquetado de partículas circulares en R2. Revista de La Facultad de Ciencias, 8(2), 115–137. DOI: [10.15446/rev.fac.cienc.v8n2.72343](https://doi.org/10.15446/rev.fac.cienc.v8n2.72343)
 
-E. A. Montoya-Araque, L. O. Suarez-Burgoa, and E. W. Medley, “Application of the tortuous
-surface method to stochastic analysis of bimslope stability,” Bulletin of Engineering Geology
-and the Environment, vol. 79, pp. 5329–5340, 12 2020.
+Montoya-Araque, E. A., & Suarez-Burgoa, L. O. (2019). Evaluación de estabilidad de taludes compuestos por bimsoils/bimrocks mediante modelación computacional de superficies de falla tortuosas con el algoritmo A*. Memorias Del XVI Congreso Panamericano de Mecánica de Suelos e Ingeniería Geotécnica -- Geotechnical Engineering in the XXI Century: Lessons Learned and Future Challenges, 628–636. DOI: [10.3233/STAL190093](https://ebooks.iospress.nl/doi/10.3233/STAL190093)
 
-E. A. Montoya-Araque and L. O. Suarez-Burgoa, “Evaluación de estabilidad de taludes
-compuestos por bimsoils/bimrocks mediante modelación computacional de superficies de falla
-tortuosas con el algoritmo A*,” in Memorias del XVI Congreso Panamericano de Mecánica
-de Suelos e Ingeniería Geotécnica – Geotechnical Engineering in the XXI Century: Lessons
-learned and future challenges, (Cancún, México), pp. 628–636, 2019.
+Montoya-Araque, E. A., & Suarez-Burgoa, L. O. (2019). Automatic generation of tortuous failure surfaces in block-in-matrix materials for 2D slope stability assessments. Computers and Geotechnics, 112, 17–22. DOI: [10.1016/j.compgeo.2019.04.002](https://doi.org/10.1016/j.compgeo.2019.04.002)
 
-L. O. Suarez-Burgoa, A. Ariza-Triana, and E. Montoya-Araque, “Modelamiento de estructuras
-de bimsoils mediante el empaquetado de partículas circulares en R2,” Revista de la Facultad
-de Ciencias, vol. 8, pp. 115–137, 7 2019.
+Montoya-Araque, E. A., & Suarez-Burgoa, L. O. (2018). Software de aplicación en Python 3 para el cálculo de la estadística de tensores de segundo orden de Jelinek en datos de anisotropía de susceptibilidad magnética. Boletín de Ciencias de La Tierra, 44, 49–58. DOI: [10.15446/rbct.n44.70973](https://doi.org/10.15446/rbct.n44.70973)
 
-E. A. Montoya-Araque and L. O. Suarez-Burgoa, “Automatic generation of tortuous failure
-surfaces in block-in-matrix materials for 2D slope stability assessments,” Computers and
-Geotechnics, vol. 112, pp. 17–22, 8 2019.
+Montoya-Araque, E. A., & Suarez-Burgoa, L. O. (2018). pyBIMstab: Application software for 2D slope stability analysis of block-in-matrix and homogeneous materials. SoftwareX, 7, 383–387. DOI: [10.1016/j.softx.2018.11.003](https://doi.org/10.1016/j.softx.2018.11.003)
 
-E. A. Montoya-Araque and L. O. Suarez-Burgoa, “pyBIMstab: Application software for 2D
-slope stability analysis of block-in-matrix and homogeneous materials,” SoftwareX, vol. 7,
-pp. 383–387, 1 2018.
+Suarez-Burgoa, L. O., & Montoya-Araque, E. A. (2016). Programa en código abierto para el análisis bidimensional de estabilidad de taludes por el método de equilibrio límite. Revista de La Facultad de Ciencias, 5(2), 88–104. DOI: [10.15446/rev.fac.cienc.v5n2.59914](https://doi.org/10.15446/rev.fac.cienc.v5n2.59914)
 
-E. A. Montoya-Araque and L. O. Suarez-Burgoa, “Software de aplicación en Python 3 para el
-cálculo de la estadística de tensores de segundo orden de Jelinek en datos de anisotropía de
-susceptibilidad magnética,” Boletín de Ciencias de la Tierra, no. 44, pp. 49–58, 2018.
-
-L. O. Suarez-Burgoa and E. A. Montoya-Araque, “Programa en código abierto para el análisis
-bidimensional de estabilidad de taludes por el método de equilibrio límite,” Revista de la
-Facultad de Ciencias, vol. 5, pp. 88–104, 7 2016.
+Weber, M., de Santis, C., Acevedo, N., Arce, L., Barón, J., Chica, A. C., García, E., Gómez, N., Guevara, G., Montoya, E., Morales, G., Otálvaro, J. E., Patiño, L., Pérez, J. O., & Rodríguez, Y. 1. (2015). Renovación de la sala de exhibición del Museo de geociencias de la facultad de minas, Universidad Nacional de Colombia. XV Congreso Colombiano de Geología, 1135–1137.

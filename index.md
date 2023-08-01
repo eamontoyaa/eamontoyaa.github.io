@@ -18,6 +18,8 @@ Welcome to my personal website!
 - 💻 I like developing open-source software for solving geological and geotechnical problems, but also as teaching tools 🧑‍🏫.
 - 🤝 I'm looking for people to collaborate with on open-source development and research projects. All ideas 💡 are welcome!
 
+Finally, you can find more boring stuff in my [CV](/attached/MontoyaAraque_CV.pdf).
+
 ## 📝 List of publications
 
 [Here](./publications.html), you can find a list of my publications.
