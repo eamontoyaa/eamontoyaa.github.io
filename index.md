@@ -22,7 +22,7 @@ Finally, you can find more boring stuff in my [CV](/attached/MontoyaAraque_CV.pd
 
 ## 📝 List of publications
 
-[Here](./publications.html), you can find a list of my publications.
+[Here](./publications.html), you can find a list of my publications. You'll find the links to the papers, but if your institution or you don't have a subscription to the publisher sites, you can send me an email and I'll be happy to share them with you.
 
 ## 💻 Development projects
 
