@@ -4,7 +4,7 @@
 
 ## These are some nerdy and fun facts about me
 
-- 🛫 I come from Colombia 🇨🇴, but I'm currently living in France 🇫🇷.
+- 🌎 I am from Colombia 🇨🇴.
 - 😼 I have 4 cats 🐈‍⬛🐈‍⬛🐈‍⬛🐈‍⬛, and love drinking coffee ☕.
 - I practice beach volleyball 🏐 and table tennis 🏓. I also enjoy watching football ⚽.
 - 🤓 I'm a geological engineer and an amateur Python 🐍 developer. I hold a master's degree in Geotechnical Engineering, and I'm currently doing a PhD in Engineering.
@@ -17,4 +17,4 @@
 
 You can  send me an email 📧 at any of these options:
 
-[eamontoyaa@gmail.com](mailto:eamontoyaa@gmail.com) | [eamontoyaa@unal.edu.co](mailto:eamontoyaa@unal.edu.co) | [eamontoyaa@eafit.edu.co](mailto:eamontoyaa@eafit.edu.co) | [exneyder.montoya@centralesupelec.fr](mailto:exneyder.montoya@centralesupelec.fr)
+[eamontoyaa@gmail.com](mailto:eamontoyaa@gmail.com) | [eamontoyaa@eafit.edu.co](mailto:eamontoyaa@eafit.edu.co) | [eamontoyaa@unal.edu.co](mailto:eamontoyaa@unal.edu.co)
