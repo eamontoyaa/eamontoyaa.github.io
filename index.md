@@ -8,7 +8,7 @@ Welcome to my personal website!
 
 ## These are some nerdy and fun facts about me
 
-- 🛫 I come from Colombia 🇨🇴<!--, but I'm currently living in France 🇫🇷. -->
+- 🛫 I'm from Colombia 🇨🇴<!--, but I'm currently living in France 🇫🇷. -->
 - 😼 I have 4 cats 🐈‍⬛ and love drinking coffee ☕.
 - I practice beach volleyball 🏐 and table tennis 🏓. I also enjoy watching football ⚽.
 - 🤓 I'm a geological engineer with a master's degree in geotechnical engineering and a PhD in engineering.
