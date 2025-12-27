@@ -9,13 +9,14 @@ Welcome to my personal website!
 ## These are some nerdy and fun facts about me
 
 - 🛫 I come from Colombia 🇨🇴<!--, but I'm currently living in France 🇫🇷. -->
-- 😼 I have 4 cats 🐈‍⬛🐈‍⬛🐈‍⬛🐈‍⬛, and love drinking coffee ☕.
+- 😼 I have 4 cats 🐈‍⬛ and love drinking coffee ☕.
 - I practice beach volleyball 🏐 and table tennis 🏓. I also enjoy watching football ⚽.
-- 🤓 I'm a geological engineer and an amateur Python 🐍 developer. I hold a master's degree in Geotechnical Engineering, and I'm currently doing a PhD in Engineering.
-- 🔍 My current research is focused on landslides 🏔️ hazard assessment, considering both rainfall 🌦️ and earthquakes 🪨 as triggering factors.
-- 📚 I have studied block-in-matrix materials (bimrocks and bimsoils), especially the tortuous failure surface developed in these materials and its consideration in slope stability.
-- I have worked in consulting as a geologist and geotechnical engineer 👷‍♂️. I have indoor experience in the office 🧑‍💻 and lab 👨‍🔬 and have done a lot of fieldwork 🗺️🏕️⛰️.
-- 💻 I like developing open-source software for solving geological and geotechnical problems, but also as teaching tools 🧑‍🏫.
+- 🤓 I'm a geological engineer with a master's degree in geotechnical engineering and a PhD in engineering.
+- 🔍 My current research focuses on slope stability 💻, landslide hazard 🏔️, rainfall thresholds ⛈, and early warning systems 🚦.
+- 📚 In my PhD, I studied landslides induced by earthquakes through the implementation of physics-based numerical frameworks at regional and local scales.
+- 📚 In my master's, I studied block-in-matrix materials (bimrocks and bimsoils), their tortuous failure surfaces, and their implication on slope stability.
+- 👷‍♂️ I have worked in consulting as an engineering geologist and geotechnical engineer.
+- 💻 I'm passionate about developing open-source software to solve engineering problems, but also as a teaching tool 🧑‍🏫. I usually program in Python 🐍, but I also have basic knowledge of R and Matlab/Octave.
 - 🤝 I'm looking for people to collaborate with on open-source development and research projects. All ideas 💡 are welcome!
 
 <!-- Finally, you can find more boring stuff in my [CV](/attached/MontoyaAraque_CV.pdf). -->
@@ -35,4 +36,4 @@ You can  send me an email 📧 at any of these addessess:
 - [eamontoyaa@gmail.com](mailto:eamontoyaa@gmail.com)
 - [eamontoyaa@unal.edu.co](mailto:eamontoyaa@unal.edu.co)
 - [eamontoyaa@eafit.edu.co](mailto:eamontoyaa@eafit.edu.co)
-- [exneyder.montoya@centralesupelec.fr](mailto:exneyder.montoya@centralesupelec.fr)
+<!-- - [exneyder.montoya@centralesupelec.fr](mailto:exneyder.montoya@centralesupelec.fr) -->
